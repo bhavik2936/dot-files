@@ -2,7 +2,7 @@
 [[ -s "$HOME/.profile" ]] && source "$HOME/.profile"
 
 # Load the shell dotfiles
-for file in ~/.{path,exports,aliases,functions,extra}; do
+for file in ~/.dotfiles/.{path,exports,aliases,sources,functions,extra}; do
 	[ -r "$file" ] && [ -f "$file" ] && source "$file";
 done;
 unset file;
