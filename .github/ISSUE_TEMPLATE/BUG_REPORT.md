@@ -26,4 +26,4 @@ A clear and concise description of what you expected to happen.
 ## Additional Context
 Add any other context about the problem here.
 
-- [ ] I will abide by the [code of conduct](https://github.com/bhavik2936/dot-files/blob/main/CODE_OF_CONDUCT.md).
+- [ ] I will abide by the [code of conduct](https://github.com/bhavik2936/dot-files/blob/main/.github/CODE_OF_CONDUCT.md).
