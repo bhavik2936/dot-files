@@ -7,4 +7,4 @@ Add a description about proposed changes addressed into the PR.
 ## Why
 Add some context for the need of raising the PR.
 
-- [ ] I will abide by the [code of conduct](https://github.com/bhavik2936/dot-files/blob/main/CODE_OF_CONDUCT.md).
+- [ ] I will abide by the [code of conduct](https://github.com/bhavik2936/dot-files/blob/main/.github/CODE_OF_CONDUCT.md).

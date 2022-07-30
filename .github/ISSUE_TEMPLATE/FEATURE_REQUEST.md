@@ -24,4 +24,4 @@ A clear and concise description of any alternative solutions or features you've 
 ## Additional Context
 Add any other context or screenshots about the feature request here.
 
-- [ ] I will abide by the [code of conduct](https://github.com/bhavik2936/dot-files/blob/main/CODE_OF_CONDUCT.md).
+- [ ] I will abide by the [code of conduct](https://github.com/bhavik2936/dot-files/blob/main/.github/CODE_OF_CONDUCT.md).
