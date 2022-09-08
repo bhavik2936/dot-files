@@ -1,0 +1,2 @@
+# use specified version of npm if exists
+[[ "`pwd`" != "$HOME" ]] && [[ -f "./.nvmrc" ]] && nvm use --silent
