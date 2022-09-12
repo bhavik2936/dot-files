@@ -1,0 +1,6 @@
+# mcd [name]
+# create and change into specified directory
+function mcd() {
+  mkdir -p "$1"
+  cd "$1"
+}
